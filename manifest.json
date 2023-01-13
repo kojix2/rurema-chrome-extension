@@ -1,0 +1,24 @@
+{
+  "name": "るりまサーチ",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Rubyのリファレンスマニュアルを検索するChrome拡張です。",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["popup.js"]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

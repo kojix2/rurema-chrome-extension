@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "description": "Rubyのリファレンスマニュアルを検索するChrome拡張です。",
+  "permissions": ["contextMenus"],
   "background": {
     "service_worker": "background.js"
   },

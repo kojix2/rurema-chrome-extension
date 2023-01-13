@@ -13,7 +13,8 @@
 
 ## ライセンス
 
-The MIT License
+ライセンスは MIT License です。
+下記のプロジェクトのコードを利用しています。
 
 - このプロジェクトは [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) のコードからフォークしました。（The MIT License )
-- [Quick るりまサーチ](https://github.com/myokoym/quick_rurema_search) のコードを利用しています (The MIT License )
+- [Quick るりまサーチ](https://github.com/myokoym/quick_rurema_search) のコードを使用しています。 (The MIT License )

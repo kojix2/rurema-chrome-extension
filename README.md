@@ -23,4 +23,7 @@ Rubyリファレンスマニュアルを高速検索できる[るりまサーチ
 
 - このプロジェクトは [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) のコードからフォークしました。（The MIT License )
 - [Quick るりまサーチ](https://github.com/myokoym/quick_rurema_search) のコードを使用しています。 (The MIT License )
+
+Rubyのロゴは[Creative Commons Attribution-ShareAlike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/)です。
+
 - [The Ruby logo](https://www.ruby-lang.org/en/about/logo/) is Copyright © 2006, Yukihiro Matsumoto. It is licensed under the terms of the Creative Commons Attribution-ShareAlike 2.5 License agreement.
